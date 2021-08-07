@@ -1,3 +1,4 @@
+layout: page
 title: "Arnab Resume"
 
 ## About
