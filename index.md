@@ -26,3 +26,7 @@ Junior Software Engineer at DPS Technologies India Pvt. Ltd.\
 
 Software Trainer at Hard Soft Information System\
 (Aug 2008 – Oct 2010)
+
+## Contact
+
+Email: arnab.roy.chowdhury.developer@gmail.com
